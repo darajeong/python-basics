@@ -30,11 +30,3 @@ print(unique_tags)
 #         해당 태그 하나를 결과 목록에 추가한다
 
 # 결과 목록을 출력한다
-
-tags = ["Python", "AI", "Python", "Data", "AI"]
-
-unique_tags = []
-for tag in tags:
-    if tag not in unique_tags:
-            unique_tags.append(tag)
-print(unique_tags)

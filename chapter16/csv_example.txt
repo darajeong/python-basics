@@ -1,0 +1,3 @@
+date,product,price,quantity
+date,product,price,quantity
+date,product,price,quantity

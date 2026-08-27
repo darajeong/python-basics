@@ -5,3 +5,5 @@ for i in range(4):
 
 #for fruit in fruits:
 #    print(fruit)
+
+print("바나나" fruits)

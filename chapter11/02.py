@@ -7,4 +7,4 @@ fruits.extend(more_fruits)
 
 print(fruits)
 
-print("extend 원래 fruits의 과일 갯수: ", len(fruits))
+print("extend 후 원래 fruits의 과일 갯수: ", len(fruits))
